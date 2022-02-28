@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vindiciæ veritatis or an unanimous attestation to Gods blessed truth revealed in his vvord: together with a serious protestation against those church-desolating and soul-damning errors, heresies, and blasphemies, which of late have come in like a flood upon our county and kingdome : especially against a toleration of them. / Made in pursuance of the nationall Covenant, by the ministers of the Gospel within the West-Riding of the countie of York, as a caution to their flocks, and testimonie to the world of their zeal for, and love to, Christs truth and church. Readily and willingly subscribed, April 6. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95962</idno>
+            <idno type="STC">Wing V544</idno>
+            <idno type="STC">Thomason E444_5</idno>
+            <idno type="EEBO-CITATION">99864222</idno>
+            <idno type="PROQUEST">99864222</idno>
+            <idno type="VID">130633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 130633)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E444[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Vindiciæ veritatis or an unanimous attestation to Gods blessed truth revealed in his vvord: together with a serious protestation against those church-desolating and soul-damning errors, heresies, and blasphemies, which of late have come in like a flood upon our county and kingdome : especially against a toleration of them. / Made in pursuance of the nationall Covenant, by the ministers of the Gospel within the West-Riding of the countie of York, as a caution to their flocks, and testimonie to the world of their zeal for, and love to, Christs truth and church. Readily and willingly subscribed, April 6. 1648.</title>
+                  <author>Hill, Edward, 1589 or 90-1669.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock, for Luke Favvne, at the sign of the Parrot in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Edward Hill minister of the Gospel at Creston [and 40 others].</note>
+                  <note>Annotation on Thomason copy: "May 25".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Clergy --  England --  York --  Early works to 1800.</term>
+               <term>Religious tolerance --  England --  York --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:130633:1" rendition="simple:additions"/>
+            <p>
+               <hi>VINDICIAE VERITATIS</hi> Or an Unanimous Atteſtation to Gods bleſſed Truth Revealed in his WORD: Together with a ſerious Proteſtati<g ref="char:EOLhyphen"/>on againſt thoſe Church-deſolating and Soul<g ref="char:EOLhyphen"/>damning Errors, Hereſies, and Blaſphemies, which of late have come in like a flood upon our County and Kingdome: <hi>Eſpecially againſt a Toleration of them.</hi> Made in purſuance of the Nationall Covenant, BY The Miniſters of the Goſpel with<g ref="char:EOLhyphen"/>in the Weſt-Riding of the Countie of York, as a Caution to their flocks, and Teſtimonie to the world of their zeal for, and love to, Chriſts truth and Church.</p>
+            <p>
+               <hi>Readily and Willingly Subſcribed,</hi> April 6. 1648.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Macock,</hi> for LUKE FAVVNE, at the ſign of the <hi>Parrot</hi> in <hi>Pauls</hi> Church-yard. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:130633:2"/>
+            <pb n="3" facs="tcp:130633:2"/>
+            <head>
+               <hi>Vindiciae Veritatis.</hi> OR An Vnanimous Atteſtation TO Gods Bleſſed Truth Revealed by his WORD.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VE the Miniſters of Chriſt, reſiding within the Weſt-riding of the County of <hi>York;</hi> ſeriouſly calling to mind the many wonderful mercies, and deliverances, which God hath vouchſafed in thoſe latter years to this Church and King<g ref="char:EOLhyphen"/>dom; eſpecially in freeing us from the inſup<g ref="char:EOLhyphen"/>portable yoke of the <hi>Prelatical Hierarchy,</hi> and ſetting open a fair door of hope, to a ful and through Reformation, by means of this preſent Parliament, in purſuance of our Nation<g ref="char:EOLhyphen"/>al Covenant; cannot but deſire to be unfeignedly thankful to God, firſt, and then to the Honorable Houſes for all their pains, piety, prudence and fidelity manifeſted therein: Yet we cannot but with ſad and ſorrowful hearts, weep, yea (if it were poſſi<g ref="char:EOLhyphen"/>ble) bleed over thoſe inexpreſſible Calamities, which threaten this poor diſtreſſed Church with ſpeedy and inevitable ruin, by reaſon of the many pernicious <hi>Errors,</hi> damnable <hi>Hereſies,</hi> unpa<g ref="char:EOLhyphen"/>raleld <hi>Blaſphemies,</hi> and more then abominable <hi>Irreligion,</hi> and
+<pb n="4" facs="tcp:130633:3"/>
+               <hi>Atheiſm,</hi> which dayly increaſe and ſpread amongſt us. Eſpeci<g ref="char:EOLhyphen"/>ally our hearts tremble, when we conſider the deſperate attemps of thoſe, who endeavour and plead for a
+<note n="a" place="margin">Bloody Tenent preface</note> toleration (of all Con<g ref="char:EOLhyphen"/>ſciences and worſhip, even Antichriſtian; Diametrically oppo<g ref="char:EOLhyphen"/>ſite to the National Covenant, and that) which would entayl all theſe evils upon us, and our poſterity for ever.</p>
+            <p>Fearing therefore, by our ſinful ſilence, to betray the Truth of God, which in the worſt of times hath ever found ſome friends to own and aſſert it. And having before our eyes</p>
+            <p>Firſt, The Honor of God, which ought to be dearer to us then our own
+<note n="b" place="margin">Exod 32, 32 Rom 9.3</note> ſalvation.</p>
+            <p>Secondly, The preciouſneſs of our peoples ſouls,
+<note n="c" place="margin">Acts 20, 28</note> bought with no meaner price then the Blood of Chriſt, now in danger to be ſubverted.</p>
+            <p>Thirdly, The ſtrictneſs of our engagement by Covenant with<g ref="char:EOLhyphen"/>in our calling, to endeavour the extirpation of <hi>Hereſies, Schiſm, Prophaneſs,</hi> and whatſoever is contrary to ſound Doctrine, and the power of godlineſs</p>
+            <p>Fourthly, The expreſs charge that lies upon all, earneſtly to
+<note n="d" place="margin">Iude <hi>verſe</hi> 3</note> contend for the Faith, which was once delivered to the Saints, e<g ref="char:EOLhyphen"/>ſpecially upon
+<note n="e" place="margin">Ezek 33, 7 Acts 20, 29</note> Miniſters, to warn the people of their danger, to watch over their flocks againſt falſe Teachers, and to hold
+<note n="f" place="margin">Tit 1.9 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>It notes an hold againſt a con<g ref="char:EOLhyphen"/>trary bold, when we have any thing in our hand that ano<g ref="char:EOLhyphen"/>ther would wreſt from us</hi>
+               </note> faſt the faithful Word.</p>
+            <p>Fifthly, The forwardneſs and zeal of Beleevers in all ages, that have maintained the Truth of the Goſpel, againſt all the aſſaults of the Devil, and his Inſtruments, together with the late, freſh and pious
+<note n="g" place="margin">2 Cor 9, 2</note> example, of our dear Brethren the Miniſters of Chriſt, within the Province of <hi>London.</hi>
+            </p>
+            <p>Sixthly, Our own
+<note n="h" place="margin">1 Tim 5, 21</note> exemption from being partakers of other mens ſins, that we may free our ſelves both from the guilt of theſe reigning corruptions, and the Blood of ſouls.</p>
+            <p>Seventhly, And laſtly, The ſweet and comfortable
+<note n="i" place="margin">Mat 10, 32</note> promiſe of our Lord and Savior, which he hath made, to the confeſſion of his Name, and truth before men: We do freely give teſtimony, as followeth;</p>
+            <p n="1">1. We cannot but exceedingly check and blame our ſelves, with broken and bleeding hearts, that we have been no more a<g ref="char:EOLhyphen"/>ctive and forward for God, in promoting and advancing the
+<pb n="5" facs="tcp:130633:3"/>happy begun Reformation of Religion, according to our Cove<g ref="char:EOLhyphen"/>nant, in <hi>Doctrine, Worſhip, Diſcipline</hi> and <hi>Government.</hi> And alſo, that we have ſo little appeared (out of the ſpheres of our re<g ref="char:EOLhyphen"/>reſpective Congregations) againſt the many intolerable <hi>Errors, Blaſphemies</hi> and <hi>Hereſies,</hi> which have dayly increaſed whiles they ſhould have been ſuppreſſed.</p>
+            <p n="2">2. We do firmly beleeve, the holy Scripture given by Divine
+<note n="k" place="margin">2 Tim 3, 16</note> inſpiration, contained in the Canonical books of the Old and New Teſtament, to be the
+<note n="l" place="margin">2 Pet. 1, 19 20, 21</note> undoubted Word of God; the ſu<g ref="char:EOLhyphen"/>pream Judge in all Controverſies of Religion, from which there's no appeal: The moſt perfect
+<note n="m" place="margin">Epheſ. 2, 20</note> rule of faith and obedience both in reſpect of Gods Worſhip, and the whole converſation of man. To which, as nothing ought to be added, ſo from it no<g ref="char:EOLhyphen"/>thing ought to be
+<note n="n" place="margin">Deut 4, 2 Rev 22, 18, 19</note> diminiſhed.</p>
+            <p n="3">3. Upon a diligent peruſal of <hi>a Confeſſion of Faith,</hi> and <hi>Cate<g ref="char:EOLhyphen"/>chiſm, preſented</hi> (as <hi>the humble Advice of the Aſſembly of Di<g ref="char:EOLhyphen"/>vines, then ſetting at Weſtminſter) to both Houſes of Parliament,</hi> for their civil ſanction: We cannot but thankfully acknowledg their unwearied pains taken therein, notwithſtanding the many apparent difficulties they dayly wreſtled withall; heartily bleſſing God for guiding them ſo by his Spirit into all truth; that as we do freely and fully aſſent to the whole Doctrine of Faith therein contained, to be ſound, orthodox, clearly grounded upon the Word of God, and agreeable to the Confeſſions of the Reformed Churches, (of all which we are abundantly ſatisfied, and convin<g ref="char:EOLhyphen"/>ced in our Judgments and Conſciences;) ſo we can cheerfully ſubmit our ſelves unto that <hi>Confeſſion</hi> and <hi>Catechiſm,</hi> as a ſpeci<g ref="char:EOLhyphen"/>al means to preſerve Unity and Purity of Doctrine amongſt us; earneſtly imploring they may receive the ſtamp of ſupream Autho<g ref="char:EOLhyphen"/>rity, for the nearer Conjunction of the three Kingdoms, that we and our poſterity after us, may as Brethren live in peace and love, and the Lord may delight to dwel in the midſt of us.</p>
+            <p n="4">4. Whereas it is undenyably evident, and more clear then the Sun at noonday; that men of corrupt minds have broached and ſpread amongſt us many
+<note n="o" place="margin">
+                  <hi>Remonſtrance &amp;c. by Borea<g ref="char:EOLhyphen"/>lis printed at</hi> London, 1648 page 8, 9 <hi>And Colemans re<g ref="char:EOLhyphen"/>examination,</hi> page 10</note> unſound opinions, and monſtrous <hi>Er<g ref="char:EOLhyphen"/>rors,</hi> both in word and writings, of which thoſe many dangerous and heretical books, (ſuch as are <hi>Beſts Myſteries againſt the whole Trinity. Bidles twelve Arguments againſt the Diety of
+<pb n="6" facs="tcp:130633:4"/>the Holy Ghoſt. Comfort for Believers. Mans Mortality. Bloody Tenent. And Sparkles of Glory;</hi> with many moe com<g ref="char:EOLhyphen"/>monly printed and publiſhed,) are lively, and never dying Mo<g ref="char:EOLhyphen"/>numents to all poſterity: We could not but ſit down aſtoniſhed, and wiſh our heads were waters, and our eyes a fountain of tears, that we might weep day and night for the ſpreading and growth of thoſe <hi>Errors, Hereſies</hi> and <hi>Schiſms,</hi> which by ſuch an expreſs, ſacred and holy oath, our Kingdom is bound to extirpate. Oh how are we aſhamed, and bluſh to lift up our faces, either to God, or to any of the Reformed Charches, when we conſider, how God is notoriouſly blaſphemed, by being made the Author of
+<note n="q" place="margin">
+                  <hi>Comfort for Beleevers.</hi> pag 36</note> ſin: The doctrine of the ſacred
+<note n="r" place="margin">
+                  <hi>An account to the Parliament by the Miniſters of</hi> Oxford, pag 36, 7</note> Trinity of perſons, in Unity of Eſſence horridly reproached, by thoſe hell-fetcht
+<note n="ſ" place="margin">
+                  <hi>Vaal Beſt in his manuſcript, preſented by the Miniſters at</hi> York <hi>to the Lord</hi> Fairfax.</note> expreſſions of a three-headed <hi>Cerberus, Monſtrum Biforme, Triforme,</hi> a two-ſhap't, and three-form'd <hi>Monſter,</hi> yea, ſtigmatiz'd for Antichri<g ref="char:EOLhyphen"/>ſtian, and the brand of the great Whore: The ſacred Diety of the eternal Son of God
+<note n="t" place="margin">
+                  <hi>Account by</hi> Oxford <hi>Mini<g ref="char:EOLhyphen"/>ſters.</hi> page 30</note> deſtroyed, and the whole work of our Re<g ref="char:EOLhyphen"/>demption accompliſhed by his Manifeſtation in the fleſh clearly o<g ref="char:EOLhyphen"/>verthrown; in making Chriſt, who is truly and really God-man in one perſon, (by the merit and ſatisfaction of whoſe death and obedience imputed to us we are ſaved,) to be a meer
+<note n="u" place="margin">
+                  <hi>Sparkles of Glory.</hi> page 203 205. 217</note> figure or example only in which God diſcovers to us grace and love; and in making the
+<note n="w" place="margin">
+                  <hi>Account by</hi> Oxford <hi>Man<g ref="char:EOLhyphen"/>ſters,</hi> page 32 <hi>ct</hi> 34. <hi>ct</hi> page 30. <hi>ct</hi> 41 <hi>Sparkles of Glory</hi> page 254, 255</note> Saints to be Chriſt. The Divine Authority of the Scriptures openly oppugned, in being denyed to be the
+<note n="x" place="margin">
+                  <hi>Pilgrimage of Saints.</hi> page 4</note> Word of God, and any
+<note n="y" place="margin">
+                  <hi>Sparkles</hi> page 245</note> binding rule to the Creature. The eternal De<g ref="char:EOLhyphen"/>cree of God concerning Election and reprobation decryed, as not fit to be
+<note n="z" place="margin">
+                  <hi>Paul <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>obſons book entitaled, Chriſt the <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not the Cauſe of the Law.</hi> page 7, 9</note> preached. The ſtanding
+<note n="a" place="margin">
+                  <hi>Sparkles</hi> pag 30, 31, 232 245, 246</note> Ordinances of Jeſus Chriſt, prayer, Sacraments, Lords day Sabbath, Law, Goſpel, Miniſtry, all raz'd to the very foundation; yea, the Church of Chriſt on earth, and all
+<note n="b" place="margin">
+                  <hi>Sparkles</hi> pag 50 51 <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> by</hi> Ox<g ref="char:EOLhyphen"/>ford <hi>Miniſters.</hi> p 13 14 <hi>ct;</hi> o <hi>Sparkle,</hi> page 116 117</note> diſtinction of Church-Officers utterly taken away, denyed and deſtroyed: All which <hi>Errors</hi> and <hi>Hereſies,</hi> with ma<g ref="char:EOLhyphen"/>ny moe particularized in a <hi>Catalogue,</hi> by our Reverend Brethren the Miniſters of <hi>London,</hi> in their <hi>Teſtimony to the Truth of Jeſus Christ,</hi> and multitudes of others, every way as horrid, too long to enumerate, tend to the great diſhonor of God, the inſufferable reproach of the Goſpel, the dangerous undermining of Magiſtra<g ref="char:EOLhyphen"/>cy, and the unſpeakable ruin of thouſands of ſouls, yea, and of all Religion; and will ſpeedily and mortally, like a <hi>Gangrene</hi> (if
+<pb n="7" facs="tcp:130633:4"/>not timely prevented) eat out all faith, piety and peace, both in Church and State. And yet (which moſt of all ſaddens our ſpi<g ref="char:EOLhyphen"/>rits) we do not find any effectual means uſed by Authority to re<g ref="char:EOLhyphen"/>ſtrain and ſuppreſs them; but on the contrary, the orthodox party in the Kingdom is diſcarded and diſcountenanced, and notorious Sectaries and Seducers highly reſpected and preferred among us.</p>
+            <p>Having therefore ſeriouſly weighed the miſerable effects of the prevalency of the Spirit of <hi>Errors</hi> and Infatuation, which hath poſſeſſed ſo many in this Kingdom, a woful experiment whereof we have lately had in our own County, in ſome acted by the ſpirit of deluſion, to caſt off all piety and natural affection, in the wilful murder of their own
+<note n="c" place="margin">
+                  <hi>Samuel Hut<g ref="char:EOLhyphen"/>chenſon, who dyed in</hi> York <hi>Caſtle, about a work before the Aſſize held there;</hi> March 20. 1647. <hi>His ſiſter, and her husband both condemned for that fact, the one execu<g ref="char:EOLhyphen"/>ted, and the o<g ref="char:EOLhyphen"/>ther reprieved.</hi>
+               </note> Mother, pretending to kill the evil ſpirit in her. We do here before God, and the Lord Jeſus Chriſt (who ſhall judg the quick and the dead at his appearing, and his King<g ref="char:EOLhyphen"/>dom) for the diſcharge of our Calling and Conſciences; declare to the whole world our diſlike, utter deteſtation, and abhorrency from our very ſouls, not only of all <hi>Popery, Superſtition, Pro<g ref="char:EOLhyphen"/>phaneneſs,</hi> but of all thoſe <hi>Errors, Hereſies</hi> and <hi>Blaſphemies</hi> for<g ref="char:EOLhyphen"/>merly mentioned, though
+<note n="d" place="margin">2 Cor. 11, 13 14, 15</note> guilded with never ſo ſpecious pre<g ref="char:EOLhyphen"/>tences of new light, all ſpirit, higheſt and moſt glorious diſcoveries, and of whatſoever elſe is contrary to ſound doctrine, and the power of godlineſs
+<note n="e" place="margin">1 Tim. 6, 3</note>.</p>
+            <p>And further, we do in the Name of the Lord Jeſus Chriſt, warn and charge our ſeveral flocks and Congregations, as they tender the honor of God, and his Goſpel, and the ſalvation of their own ſouls; that they take heed, leſt they be
+<note n="f" place="margin">2 Pet. 2, 2, <hi>et</hi> 3, 17</note> led away with the <hi>Error</hi> of the wicked, or follow the pernicious ways of them that bring in damnable <hi>Hereſies;</hi> and for this cauſe we how
+<note n="g" place="margin">Epheſ. 3 44</note> our knees unto the Father of our Lord Jeſus Chriſt, that he would
+<note n="h" place="margin">Heb. 13, 9 Ephel. 4, 14</note> eſta<g ref="char:EOLhyphen"/>bliſh their and our hearts with grace, that we may not be carried about with divers and ſtrange doctrines, but may ſtand
+<note n="i" place="margin">1 Cor 16, 13</note> faſt in the faith, and be
+<note n="k" place="margin">2 Theſ. 2, 17</note> eſtabliſhed in every good word and work.</p>
+            <p n="5">5. Upon the due Conſideration of the many lamentable con<g ref="char:EOLhyphen"/>fuſions and miſchiefs the poor Church of God groans under a<g ref="char:EOLhyphen"/>mongſt us for want of Government,
+<note place="margin">Epheſ. 1, 22 Heb 3 2, to 6</note> and the due Adminiſtration of Church-cenſures: And being fully aſſured; that Jeſus Chriſt, the King and head of his Church (faithful in that his houſe above <hi>Moſes</hi>) hath in the Scriptures laid down a ſufficient rule for the
+<pb n="8" facs="tcp:130633:5"/>governing of his Church now under the Goſpel,
+<note place="margin">1 Cor 12, 28 2 Cor 2, 6 Mat 18, 17 1 Tim <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 17 1 Theſ 5.12</note> we teſtifie, that we are verily perſwaded, in our Judgments and Conſciences, that the Government of the Church truly, and indeed Presbyterial, by
+<note n="*" place="margin">Mat 18, 15 <hi>ad</hi> 21 Acts 14, 23 Titus 1, 5 Acts 11, 30 &amp; Chap. 21, 18 1 Tim 4, 14 Acts 15, 6</note> Presbyteries and Synods, in a way of ſubordination, practiſed by the beſt Reformed Churches, is that particular Government which is moſt agreeable to the Word of God, and will mightily conduce to the removing of all <hi>Errors, Hereſies, Corruptions</hi> and <hi>Scandals</hi> in <hi>Life</hi> and <hi>Doctrine</hi> from amongſt us.</p>
+            <p>And further, we thankfully acknowledg what the Parliament hath done by their ſeveral Ordinances, in reference to the ſettle<g ref="char:EOLhyphen"/>ment of this Presbyterial Government in the Church, patiently waiting for the full eſtabliſhment of it in all the parts thereof. In the mean time, though we cannot find ſo compleat a rule in any, or all thoſe Ordinances of Parliament for Church-Government, which have (at this diſtance) come to our hand, as we are per<g ref="char:EOLhyphen"/>ſwaded in our judgments,
+<note place="margin">Iſaiah 9, 6 Mat. 16, 19 2 Cor 10, 8 a <hi>Note, that by vertue of an Order from the Committee for the</hi> 60000 <abbr>l.</abbr> 
+                  <hi>per menſom, (according to a late Ordinance of Parliament) the weſt-riding of</hi> York ſhire <hi>was by the aſſi<g ref="char:EOLhyphen"/>ſtance of the Miniſters divi<g ref="char:EOLhyphen"/>ded into ten Claſſical Preſ<g ref="char:EOLhyphen"/>byteries.</hi> April 6, 1648. <hi>But it ſeems there is yet no return made of them, becauſe they have not divi<g ref="char:EOLhyphen"/>ded the whole County</hi>
+               </note> is held forth in the Word: And though we beleeve, that Jeſus Chriſt (the ſpirituall <hi>Monarch</hi> of his Church) upon whoſe ſhoulder alone the whole frame of all Eccle<g ref="char:EOLhyphen"/>ſiaſtical Government and power is laid) hath immediatly from himſelf, inveſted the ſole power of diſpencing all Church-cenſures, and in particular, that of ſuſpenſion from the Sacrament of the Lords Supper in his own Church-Officers, who from him alone receive their Office and Authority: Yet in regard the neceſſities of putting Church-Government into actual execution, are ſo great, and preſſing, we are reſolved (if God permit) to <hi rend="sup">a</hi> act in our places for the exerciſing thereof upon the preſent Ordinances, ſo far as we apprehend them conſonant to the Word of God, and the wil and appointment of Jeſus Chriſt, hoping and praying that God will reveal to all in Authority the whole truth concerning Church-Government, that their Conſciences being fully ſatisfied therein, what is wanting may be added, what is unwarrantable may be altered, and that in Gods good time the Model of Church-Diſcipline may be perfected, and the whole Government fully ſetled, duly exerciſed, and conſcientiouſly embraced throughout all the Kingdom to the Glory of God, and recovery of this lan<g ref="char:EOLhyphen"/>guiſhing Church, out of all her dangerous Maladies and diſtempers.</p>
+            <p>In purſuance whereof, we ſhall, through the Grace of God, en<g ref="char:EOLhyphen"/>deavour, that our whole carriage may be ſuch as becomes thoſe
+<pb n="9" facs="tcp:130633:5"/>who are ready to be reſponſible for whatſoever we ſhall do, not only to the ſupream Authority of this Kingdom, but alſo, and chiefly to our Lord and Maſter Jeſus Chriſt, the great ſheephard of the ſheep, at his glorious coming and appearing, how we have ta<g ref="char:EOLhyphen"/>ken heed to our Miniſtry, which we have received in the Lord, in every thing to fulfil it.
+<note place="margin">Col 4.17</note>
+            </p>
+            <p n="6">6. When we call to mind the many dangerous plottings and practiſes of the Miniſters of <hi>Satan,</hi> to bring in a full and formal toleration; and being convinced by woful experience, that the pre<g ref="char:EOLhyphen"/>ſent connivance at <hi>Errors, Hereſies, Sects</hi> and <hi>Schiſms,</hi> (which ſwarm in the Kingdom) amounts to no leſs: We tremble to think what ſuch indulgence will produce, how quickly would a tolera<g ref="char:EOLhyphen"/>tion prove an inlet to <hi>Atheiſm,</hi> the bane of our peace, the ruin of Reformation, the deſtruction of Religion, the grand provoca<g ref="char:EOLhyphen"/>tive of Gods wrath againſt this Land, to make us an hiſſing and a<g ref="char:EOLhyphen"/>ſtoniſhment to all Nations: And therefore we do from our hearts abhor and proteſt againſt the toleration ſo much cry'd up in theſe days, as contrary to the Scripture,
+<note place="margin">Gal 1, 8, 9, &amp; 5, 12 Rev. 2, 2, 20, v</note> and that which will undoubted<g ref="char:EOLhyphen"/>ly un-Church, un-Parliament, and un-people us (if God prevent not.) And as we cannot approve or allow of <hi>Independency</hi> or <hi>Eraſtianiſm,</hi> ſo we are reſolved by the Grace of God never to conſent to the toleration of <hi>Arrianiſm, Antitrinitarianiſm, An<g ref="char:EOLhyphen"/>tinomianiſm, Antiſcripturiſm, Arminianiſm, Anabaptiſm, En<g ref="char:EOLhyphen"/>thuſiaſm, Familiſm, Libertiniſm, Socinianiſm, Scepticiſm,</hi> or any other <hi>Hereſies, Sects,</hi> or <hi>erronious opinions</hi> whatſoever; but to withſtand the ſame by all lawful ways and means within our places and callings, though to the loſs of our Liberties, Eſtates, lives, and whatſoever elſe may be dear unto us, all which we count not too dear to looſe for Gods Glory, Truth and Goſpel.</p>
+            <p n="7">7. Finally it cannot be unknown to the Reformed Churches a<g ref="char:EOLhyphen"/>broad, that all the three Kingdoms ſtand ingaged by vertue of a <hi>ſo<g ref="char:EOLhyphen"/>lemn Covenant, ſworn with hands lift up to the moſt high God, ſin<g ref="char:EOLhyphen"/>cerely, really &amp; conſtantly through the Grace of God, to endeavour in our ſeveral places the Reformation of religion in the Kingdoms of England and Ireland, in Doctrine, Worſhip, Diſcipline and Go<g ref="char:EOLhyphen"/>vernment according to the Word of God, and example of the beſt Reformed Churches.</hi> Which Covenant the Parliament did not only commend unto us by their example, but command by their
+<pb n="10" facs="tcp:130633:6"/>Authority to be taken by us, and our people: Yet, as if all our o<g ref="char:EOLhyphen"/>ther provocations were not ſufficient to fill up the meaſure of our ſins, and bring wrath upon the Kingdom to the uttermoſt, Many takers of this Covenant do now trample upon it;
+horrible <note n="1" place="margin">A Pamphlet intituled, <hi>The peoples and ſol<g ref="char:EOLhyphen"/>diers Obſerva<g ref="char:EOLhyphen"/>tions on the Scotch Meſſage</hi> November 5 1647 page 6 <hi>et</hi> 8</note> re<g ref="char:EOLhyphen"/>proaches are caſt upon it; ſundry endeavours uſed to evade and elude the true ſenſe and meaning thereof: Yea, ſo far have ſome proceeded in their enmity againſt it, as to labour by all means the extirpation of the Covenant name and thing from amongſt us, ra<g ref="char:EOLhyphen"/>ther then of Hereſie and Schiſm to which they are engaged by it, that ſo <hi>England</hi> may become the grave, not only of all Gods Truths, Ordinances, Mercies, Victories, Deliverances, but alſo of their own Declarations, Proteſtations, Oaths and Engagements.</p>
+            <p>Wherefore,
+<note place="margin">Nehem 9, 38 Ezek 17, 15 16, 18, 19</note> being ſufficiently convinced of the lawfulneſs of en<g ref="char:EOLhyphen"/>tring the Covenant, and of the ſinfulneſs of violating it, we pre<g ref="char:EOLhyphen"/>feſs our unfeigned deſire to be humbled for our own ſins, and the ſins of this Kingdom, eſpecially, that we have not endeavoured a real Reformation, both perſonal and publike, as we have cove<g ref="char:EOLhyphen"/>nanted.</p>
+            <p>And to conclude, that we may not involve our ſelves in the guilt of wilful perjury; We further profeſs and declare before God, his elect Angels, and the whole world, that as at the firſt we did ſtrike Covenant (as in the preſence of the Almighty God) without any equivocation, mental reſervation, or ſubordination to any politick intereſt in point of Church Reformation, according to the common, plain, genuine, grammatical ſenſe of it, ſo we are ſtill bound to perform the ſame, to the utmoſt of our power whilſt we live, without admitting any other ſenſe to be put upon it, or permitting our ſelves to be diſ-engaged and abſolved from it, by any power or perſons here on earth whatſoever.</p>
+            <p>Thus have we endeavoured to diſcharge our conſciences, in own<g ref="char:EOLhyphen"/>ing and aſſerting the Truth, Cauſe, Government, and Covenant of our God, in warning our people of thoſe dangerous <hi>Sects, He<g ref="char:EOLhyphen"/>reſies, Blaſphemies</hi> that are ſo rife amongſt us, in proteſting a<g ref="char:EOLhyphen"/>gainſt the impious and boundleſs toleration of them; for which if we be maligned, reproached, perſecuted, we truſt (by the grace of our good God) that none of theſe things ſhall move us,
+<note place="margin">Acts 20.24</note> neither ſhall we count our lives dear to our ſelves, ſo that we may finiſh our courſe with joy, and the Miniſtry which we have
+<pb n="11" facs="tcp:130633:6"/>received of the Lord Jeſus to teſtifie the Goſpel of the Grace of God.</p>
+            <list>
+               <head>
+                  <hi>Subſcribed by us,</hi> April 6. 1648.</head>
+               <item>
+                  <hi>Edward Hill</hi> Miniſter of the Goſpel at <hi>Creſton.</hi>
+               </item>
+               <item>
+                  <hi>Elka. Wales</hi> Miniſter of the Goſpel at <hi>Pudſey.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Todd</hi> Miniſter of the Goſpel at <hi>Leeds.</hi>
+               </item>
+               <item>
+                  <hi>Hu. Everard</hi> Miniſter of the Goſpel at <hi>Worſbrough.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Calvert</hi> Miniſter of the Goſpel at <hi>Selby.</hi>
+               </item>
+               <item>
+                  <hi>Edward Richardſon</hi> Miniſter of the Goſpel at <hi>Rippon.</hi>
+               </item>
+               <item>
+                  <hi>Joſhua Witton</hi> Miniſter of the Goſpel at <hi>Thornhil.</hi>
+               </item>
+               <item>
+                  <hi>Will. Clarkson</hi> Miniſter of the Goſpel at <hi>Addle.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Binkbeck</hi> Miniſter of the Goſpel at <hi>Ackworth.</hi>
+               </item>
+               <item>
+                  <hi>Joſ. Ferret</hi> Miniſter of the Goſpel at <hi>Pontefract.</hi>
+               </item>
+               <item>
+                  <hi>Dan. Clark</hi> Minſter of the Goſpel at <hi>Kirkburton.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Richardſon</hi> Miniſter of the Goſpel at <hi>Kirk-Heaton.</hi>
+               </item>
+               <item>
+                  <hi>Alexander Robertſon</hi> Miniſter of the Goſpel at <hi>Sherburn.</hi>
+               </item>
+               <item>
+                  <hi>David Barnes</hi> Miniſter of the Goſpel at <hi>Brotherton.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Moorehouſe</hi> Miniſter at <hi>Caſtleford.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Horncaſtle</hi> Miniſter of the Goſpel.</item>
+               <item>
+                  <hi>Nath. Rathband</hi> Miniſter <hi>de York.</hi>
+               </item>
+               <item>
+                  <hi>Ste. Charman</hi> Miniſter of the Goſpel at <hi>Himſworth.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Calvert</hi> Miniſter of <hi>York.</hi>
+               </item>
+               <item>
+                  <hi>Theod. Hering</hi> Miniſter of <hi>York.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hawkeſworth</hi> Miniſter at <hi>Hunſlet.</hi>
+               </item>
+               <item>
+                  <hi>Joſeph Bowde</hi> Miniſter of the Goſpel at <hi>Leeds.</hi>
+               </item>
+               <item>
+                  <hi>Ric. Foſter</hi> Miniſter at <hi>Holbeck.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Chapman</hi> Miniſter at <hi>Denton.</hi>
+               </item>
+               <item>
+                  <hi>J. Fiſher</hi> Miniſter <hi>de Sheffield.</hi>
+               </item>
+               <item>
+                  <hi>Immanuel Knutton</hi> Miniſter of <hi>Eccleſefield.</hi>
+               </item>
+               <item>
+                  <hi>Samuel Kendal</hi> Miniſter of <hi>Edlington.</hi>
+               </item>
+               <item>
+                  <hi>Chriſtopher Amgil</hi> Miniſter of <hi>Treeton.</hi>
+               </item>
+               <item>
+                  <hi>Luke Clayton</hi> Miniſter of <hi>Rotheram.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Clark</hi> Miniſter at <hi>Rotheram.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Boſvile</hi> Miniſter of <hi>Braythwel.</hi>
+               </item>
+               <pb n="12" facs="tcp:130633:7"/>
+               <item>
+                  <hi>John Bridges</hi> Miniſter at <hi>Sheffield.</hi>
+               </item>
+               <item>
+                  <hi>John Cart</hi> Miniſter at <hi>Hawſworth.</hi>
+               </item>
+               <item>
+                  <hi>John Spofford</hi> Miniſter of the Goſpel at <hi>Silkston.</hi>
+               </item>
+               <item>
+                  <hi>Nathanael Cradock</hi> Miniſter at <hi>Wakefield.</hi>
+               </item>
+               <item>
+                  <hi>John Noble</hi> Paſtor of <hi>Kirkeſmeaton.</hi>
+               </item>
+               <item>
+                  <hi>Timothy Deniſon</hi> Miniſter at <hi>Normanton.</hi>
+               </item>
+               <item>
+                  <hi>William Hawdon</hi> Miniſter at <hi>Brodſworth.</hi>
+               </item>
+               <item>
+                  <hi>John Johnſon</hi> Miniſter at <hi>Methley.</hi>
+               </item>
+               <item>
+                  <hi>William Meek</hi> Miniſter of the Goſpel.</item>
+               <item>
+                  <hi>Hugh Jennings</hi> Miniſter of the Goſpel at <hi>Water-Friſton.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
